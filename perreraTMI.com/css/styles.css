@@ -237,7 +237,7 @@ article.box {
 
 .cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(35%, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(38%, 1fr));
 }
 
 .card {
