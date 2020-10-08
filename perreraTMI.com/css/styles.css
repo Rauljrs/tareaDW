@@ -207,7 +207,7 @@ nav.navbar ul li a::after {
 
 section.double-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(50%, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(40%, 1fr));
 }
 
 section.double-grid :nth-child(odd):last-child{
